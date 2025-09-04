@@ -1,11 +1,11 @@
-# elon-musk-for-president
+# P33 Project
 A common problem for potential electric car buyers is the high initial cost of the car versus a gas car but overtime the economic benefits of the electric car become more apparent when compared to the gas car and this economic benefit is what we seek to teach/show.
 
 
 # Contributing
 
 To contribute to project, 
-- be sure you have access to the repo (ask Joshua to add you to the repo by giving him your username or email attached to account).
+- be sure you have access to the repo (ask Joshuah to add you to the repo by giving him your username or email attached to account).
 - have VSCODE downloaded locally (https://code.visualstudio.com/)
 
 ## Clone Repo
